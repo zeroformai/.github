@@ -9,3 +9,9 @@
 ## 联系我们
 
 📧 电子邮箱: hello@haitang000.cn
+
+## 赞助我们
+
+<a href="https://afdian.com/a/zeroform-ai">
+  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" width="150" alt="赞助我">
+</a>
