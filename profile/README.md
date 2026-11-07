@@ -11,3 +11,9 @@ We're an AI community from China, focusing on open-source AI models and Agent de
 ## Contact us
 
 📧 Email: hello@haitang000.cn
+
+## Sponsor us
+
+<a href="https://afdian.com/a/zeroform-ai">
+  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" width="150" alt="赞助我">
+</a>
